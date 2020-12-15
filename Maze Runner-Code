@@ -144,8 +144,8 @@ int level_1(int *p)
  outtextxy(40,100,"MAZE RUNNER");
  settextstyle(0,HORIZ_DIR,0);
  setcolor(15);
- outtextxy(400,150,"Press 'SPACE' to Play.");
- outtextxy(450,350,"Project done by:");
+ outtextxy(400,150, "Press 'SPACE' to Play.");
+ outtextxy(450,350, "Project done by:");
  outtextxy(450,370, "Pooja Vasudev,");
  outtextxy(450,390, "Muskan Mishra,");
  outtextxy(450,410, "Shambhavi Awasthi,");
