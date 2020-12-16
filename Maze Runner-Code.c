@@ -135,6 +135,7 @@ void caption()
   outtextxy(10,35,"or Press 'SPACE' to EXIT");
   setcolor(WHITE);
 }
+
 int level_1(int *p)
 {
  int i,j=20,k=250,l=10,m=10,co_mo=0,inc=0;
