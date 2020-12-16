@@ -39,6 +39,7 @@ void body()
   circle(500,385,10);
   setcolor(WHITE);
 }
+
 void ball(int j,int k,int l)
 {
  circle(j,k,10);
@@ -125,6 +126,7 @@ void condition(int *j,int *k)
   *j+=5;
   }
 }
+
 void caption()
 {
   setcolor(9);
@@ -174,7 +176,6 @@ for(i=0;i<m++;i++){
  ball(j,k,l);
  if(j>=500) return 1;
   }
-
 
 return 9999;
 }
