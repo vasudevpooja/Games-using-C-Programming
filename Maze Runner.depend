@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608450020 source:c:\users\user\desktop\games in c\a\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+
