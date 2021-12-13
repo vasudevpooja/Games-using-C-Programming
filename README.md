@@ -1,11 +1,7 @@
 # GAMES IN C
 Using C programming concepts to develop games such as Chess, Hangman, Maze Runner, and Tic Tac Toe.
-1. [CHESS](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Chess/Chess.c)
-2. [HANGMAN](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Hangman/Hangman.c)
-3. [MAZE RUNNER](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Maze%20Runner/Maze%20Runner.c)
-4. [TIC TAC TOE](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Tic%20Tac%20Toe/Tic%20Tac%20Toe.c)
 
-# CHESS
+# [CHESS](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Chess/Chess.c)
 
 **How the game works:**
 1.  The chess board is set up for 2 players.
@@ -14,7 +10,7 @@ Using C programming concepts to develop games such as Chess, Hangman, Maze Runne
 4.  Player 2 then proceeds to make their move, and the game continues till one of the  player's king is in check and there is no possible escape, that is, till either of their kings are checkmated.
 
 
-# HANGMAN
+# [HANGMAN](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Hangman/Hangman.c)
 
 **How the game works:**
 1. This Hangman Game is about guessing letters (A-Z) to form the words. 
@@ -23,7 +19,7 @@ Using C programming concepts to develop games such as Chess, Hangman, Maze Runne
 4. If the player correctly recognizes all of the letters in the missing title, the game ends. 
 
 
-# MAZE RUNNER
+# [MAZE RUNNER](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Maze%20Runner/Maze%20Runner.c)
 
 **How the game works:**
 1.  This game is defined in a finite space that is used for the main board. 
@@ -42,7 +38,7 @@ Using C programming concepts to develop games such as Chess, Hangman, Maze Runne
 6. Several functions like: outtextxy (where the co-ordinates and text (if any) are put in), setcolor (The colour for the graphics design chose, in this case the ball,lines and text), setfillstyle (To set the design for the ball, in our program we have chosen an interleave_fill design for the ball), etc.
 
 
-# TIC TAC TOE
+# [TIC TAC TOE](https://github.com/vasudevpooja/Games-using-C-Programming/blob/main/Tic%20Tac%20Toe/Tic%20Tac%20Toe.c)
 
 **How the game works:**
 1.  The tic-tac-toe game is played on a 3x3 grid the game is played by two players, who take turns. 
